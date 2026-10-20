@@ -870,3 +870,4 @@ BottomNavigationBarItem(icon: Icon(Icons.share_outlined), label: "Share"),
 2. Make the Search bar and Navigation Bar Work
 
 I WANT YOU TO FIX MY CODE. USE BASIC FLUTTER JUST LIKE THESE ONES. AND APPLY THESE THINGS IN MY CODE.
+ 
